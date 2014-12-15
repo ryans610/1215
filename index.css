@@ -18,3 +18,9 @@ ul li
 	-moz-border-radius:10px;
 	text-align:center;
 }
+
+h1
+{
+	font-family:cursive;
+	font-weight:bold;
+}
