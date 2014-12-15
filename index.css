@@ -10,7 +10,7 @@ ul li
 {
 	height:20px;
 	width:50px;
-	border-style:solid;
+	border-style:outset;
 	border-width:2px;
 	border-color:violet;
 	border-radius:10px;
