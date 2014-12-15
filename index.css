@@ -8,13 +8,13 @@
 
 ul li
 {
-	height:50px;
-	width:200px;
+	height:20px;
+	width:50px;
 	list-style:none;
 	display:inline-block;
-	border:3px double;
+	border:3px double violet;
 	border-radius:10px;
 	-webkit-border-radius:10px;
 	-moz-border-radius:10px;
-	
+	text-align:center;
 }
