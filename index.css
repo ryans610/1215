@@ -8,5 +8,11 @@
 
 ul li
 {
-	height:50px;
+	height:20px;
+	width:50px;
+	border-style:solid;
+	border-width:2px;
+	border-color:violet;
+	border-radius:10px;
+	text-align:center;
 }
